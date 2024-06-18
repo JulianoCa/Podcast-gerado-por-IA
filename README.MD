@@ -77,7 +77,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/JulianoCa">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/juliano-candido-matias-580bb152">LinkedIn</a>
+    <a href="www.linkedin.com/in/juliano-candido-matias">LinkedIn</a>
 &nbsp;|&nbsp;
 
 ---
