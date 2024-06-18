@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/3d-cartoon-character.jpg"
     width="300"
 />
 </p>
